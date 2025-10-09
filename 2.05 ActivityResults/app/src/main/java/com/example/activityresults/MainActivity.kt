@@ -118,7 +118,6 @@ fun MainScreen(
                 .padding(24.dp)
         ) {
 
-            // 🖼️ ICONO DE LA APP
             AnimatedVisibility(
                 visible = visible,
                 enter = fadeIn(animationSpec = tween(800)) +
@@ -133,7 +132,6 @@ fun MainScreen(
                 )
             }
 
-            // 🧾 Texto principal con animación
             AnimatedVisibility(
                 visible = visible,
                 enter = fadeIn(animationSpec = tween(1000)) +
