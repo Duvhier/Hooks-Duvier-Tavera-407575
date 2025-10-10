@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">MainActivity</string>
-    <string name="title_activity_single_top">SingleTopActivity</string>
-    <string name="title_activity_standard">StandardActivity</string>
-</resources>
