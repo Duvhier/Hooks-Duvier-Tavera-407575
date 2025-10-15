@@ -1,2 +1,14 @@
-Hooks-Duvier-Tavera-407575
-<img width="24" height="24" alt="icons8-vídeo-24" src="https://github.com/user-attachments/assets/2bb9c73c-244c-4fc1-a541-ab7df10a248e" /> https://drive.google.com/uc?id=10RHxQVdeZHC8TAxVwymlyqyjoFfiwb1O&export=download <img width="24" height="24" alt="icons8-vídeo-24" src="https://github.com/user-attachments/assets/2bb9c73c-244c-4fc1-a541-ab7df10a248e" /> 
+# 📱 Hooks-Duvier-Tavera-407575
+
+## 🎬 Video demostrativo
+
+Haz clic en el siguiente enlace para ver el video en Google Drive:  
+🔗 [Ver demostración en Drive](https://drive.google.com/file/d/10RHxQVdeZHC8TAxVwymlyqyjoFfiwb1O/view?usp=drive_link)
+
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="80" alt="Android Icon">
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969122.png" width="80" alt="Kotlin Icon">
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="80" alt="Smartphone Icon">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="80" alt="Compose Icon">
+</p>
